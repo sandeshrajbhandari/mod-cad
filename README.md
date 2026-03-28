@@ -2,6 +2,16 @@
 
 A minimal web-based modular furniture prototyping tool built with React, TypeScript, Vite, and React Three Fiber. It is designed to be practical, fast to demo, and easy to deploy.
 
+## Screenshots
+
+### Cabinet configurator
+
+![Cabinet configurator overview](./screenshots/home.png)
+
+### Desk concept view
+
+![Work desk concept view](./screenshots/work-desk.png)
+
 ## What it does
 
 - Configures three furniture families: cabinet, shelf, and desk
